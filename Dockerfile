@@ -1,4 +1,4 @@
-FROM rhscl/httpd-24-rhel7:latest
+FROM openshift/httpd:2.4
 
 USER 0
 
